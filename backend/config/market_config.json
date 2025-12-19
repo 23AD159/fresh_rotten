@@ -1,0 +1,240 @@
+{
+  "primary_market": "Coimbatore",
+  "dataset_refresh_hours": 24,
+  "markets": [
+    {
+      "name": "Coimbatore",
+      "lat": 11.0168,
+      "lon": 76.9558,
+      "neighbors": [
+        "Pollachi",
+        "Tiruppur",
+        "Erode",
+        "Salem",
+        "Karur",
+        "Dindigul",
+        "Udumalpet",
+        "Mettupalayam",
+        "Avinashi",
+        "Gobichettipalayam"
+      ]
+    },
+    {
+      "name": "Pollachi",
+      "lat": 10.6583,
+      "lon": 77.0081,
+      "neighbors": [
+        "Coimbatore",
+        "Udumalpet",
+        "Palakkad",
+        "Karur",
+        "Dindigul",
+        "Erode",
+        "Tiruppur",
+        "Mettupalayam",
+        "Avinashi",
+        "Nilgiris"
+      ]
+    },
+    {
+      "name": "Tiruppur",
+      "lat": 11.1085,
+      "lon": 77.3411,
+      "neighbors": [
+        "Coimbatore",
+        "Erode",
+        "Avinashi",
+        "Karur",
+        "Salem",
+        "Pollachi",
+        "Udumalpet",
+        "Mettupalayam",
+        "Nilgiris",
+        "Gobichettipalayam"
+      ]
+    },
+    {
+      "name": "Erode",
+      "lat": 11.341,
+      "lon": 77.7172,
+      "neighbors": [
+        "Tiruppur",
+        "Coimbatore",
+        "Salem",
+        "Karur",
+        "Gobichettipalayam",
+        "Avinashi",
+        "Mettupalayam",
+        "Nilgiris",
+        "Pollachi",
+        "Dindigul"
+      ]
+    },
+    {
+      "name": "Salem",
+      "lat": 11.6643,
+      "lon": 78.146,
+      "neighbors": [
+        "Erode",
+        "Karur",
+        "Namakkal",
+        "Tiruppur",
+        "Coimbatore",
+        "Dindigul",
+        "Nilgiris",
+        "Gobichettipalayam",
+        "Mettupalayam",
+        "Avinashi"
+      ]
+    },
+    {
+      "name": "Karur",
+      "lat": 10.9603,
+      "lon": 78.0766,
+      "neighbors": [
+        "Dindigul",
+        "Salem",
+        "Erode",
+        "Tiruppur",
+        "Coimbatore",
+        "Pollachi",
+        "Udumalpet",
+        "Avinashi",
+        "Palakkad",
+        "Nilgiris"
+      ]
+    },
+    {
+      "name": "Dindigul",
+      "lat": 10.3676,
+      "lon": 77.9800,
+      "neighbors": [
+        "Karur",
+        "Madurai",
+        "Coimbatore",
+        "Pollachi",
+        "Udumalpet",
+        "Palani",
+        "Erode",
+        "Tiruppur",
+        "Nilgiris",
+        "Gobichettipalayam"
+      ]
+    },
+    {
+      "name": "Udumalpet",
+      "lat": 10.5881,
+      "lon": 77.2478,
+      "neighbors": [
+        "Pollachi",
+        "Coimbatore",
+        "Palani",
+        "Dindigul",
+        "Karur",
+        "Tiruppur",
+        "Erode",
+        "Avinashi",
+        "Nilgiris",
+        "Mettupalayam"
+      ]
+    },
+    {
+      "name": "Mettupalayam",
+      "lat": 11.2994,
+      "lon": 76.934,
+      "neighbors": [
+        "Coimbatore",
+        "Coonoor",
+        "Ooty",
+        "Tiruppur",
+        "Erode",
+        "Gobichettipalayam",
+        "Avinashi",
+        "Nilgiris",
+        "Pollachi",
+        "Udumalpet"
+      ]
+    },
+    {
+      "name": "Avinashi",
+      "lat": 11.192,
+      "lon": 77.2691,
+      "neighbors": [
+        "Coimbatore",
+        "Tiruppur",
+        "Erode",
+        "Gobichettipalayam",
+        "Mettupalayam",
+        "Pollachi",
+        "Udumalpet",
+        "Karur",
+        "Nilgiris",
+        "Palakkad"
+      ]
+    },
+    {
+      "name": "Gobichettipalayam",
+      "lat": 11.4551,
+      "lon": 77.4422,
+      "neighbors": [
+        "Erode",
+        "Tiruppur",
+        "Avinashi",
+        "Mettupalayam",
+        "Coimbatore",
+        "Pollachi",
+        "Udumalpet",
+        "Nilgiris",
+        "Karur",
+        "Salem"
+      ]
+    },
+    {
+      "name": "Nilgiris",
+      "lat": 11.4011,
+      "lon": 76.6932,
+      "neighbors": [
+        "Ooty",
+        "Coonoor",
+        "Mettupalayam",
+        "Coimbatore",
+        "Tiruppur",
+        "Erode",
+        "Gobichettipalayam",
+        "Avinashi",
+        "Pollachi",
+        "Udumalpet"
+      ]
+    },
+    {
+      "name": "Palakkad",
+      "lat": 10.7867,
+      "lon": 76.6548,
+      "neighbors": [
+        "Pollachi",
+        "Coimbatore",
+        "Palani",
+        "Udumalpet",
+        "Nilgiris",
+        "Mettupalayam",
+        "Gobichettipalayam",
+        "Avinashi",
+        "Tiruppur",
+        "Dindigul"
+      ]
+    }
+  ],
+  "crops": [
+    { "name": "Tomato", "category": "Vegetables", "base_price": 15.0 },
+    { "name": "Onion", "category": "Vegetables", "base_price": 12.5 },
+    { "name": "Carrot", "category": "Vegetables", "base_price": 18.0 },
+    { "name": "Potato", "category": "Vegetables", "base_price": 10.0 },
+    { "name": "Capsicum", "category": "Vegetables", "base_price": 20.0 },
+    { "name": "Banana", "category": "Fruits", "base_price": 28.0 },
+    { "name": "Grapes", "category": "Fruits", "base_price": 35.0 },
+    { "name": "Mango", "category": "Fruits", "base_price": 40.0 },
+    { "name": "Turmeric", "category": "Spices", "base_price": 60.0 },
+    { "name": "Ginger", "category": "Spices", "base_price": 55.0 }
+  ]
+}
+
